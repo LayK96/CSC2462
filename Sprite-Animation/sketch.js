@@ -6,7 +6,7 @@ function setup(){
     createCanvas(800,400);
 
     //For Bonus/fun I am gonna add background for my sprites to walk on
-    bg = loadImage('assets/combo.png');
+    bg = loadImage('assets/test.jpg');
 
     //create 2 sprites and add 3 animations
     spelunk = createSprite(80,125,80,80);
