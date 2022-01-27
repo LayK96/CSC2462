@@ -30,8 +30,6 @@ function setup(){
     //spelunk.addAnimation('crawling_down','assets/man_crawl01.png','assets/man_crawl02.png');
     eskimo.addAnimation('eskimo_crawling','assets/eskimo_crawl02.png','assets/eskimo_crawl03.png','assets/eskimo_crawl04.png');
     //spelunk.addAnimation('crawling_up','assets/man_crawl02.png','assets/man_crawl01.png');
-
-
 }
 
 function draw(){
@@ -82,9 +80,6 @@ function draw(){
         eskimo.velocity.x = 0;
 
       }
-    
-
-    
       //draw the sprite
       drawSprites();
 }
