@@ -3,6 +3,9 @@ Layton T. Knight
 Lkngig21@lsu.edu
 89-0021801
 
+Github Link:
+https://layk96.github.io/CSC2462/Paint-App/
+
 Environment:
 I am running a p5 module downloaded on my Mac. I am using Atom.io, the text
 editor from Github. I am using a package called "Atom-Live-Server" in order to run a local server on my machine that I then view in Google Chrome. I use chrom because the developer tools with javascript allows me to troubleshoot from the console as well as disable browser caching so I can see everything I type in my javascript file without having to refresh.
