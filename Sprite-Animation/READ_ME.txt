@@ -1,6 +1,6 @@
 CSC 2463- Programming Images and Graphics - Sprite-Animation
 Layton T. Knight
-Lknig21@lsu.edu
+Lkngig21@lsu.edu
 89-0021801
 
 Github Link:
