@@ -33,7 +33,7 @@ function setup(){
 }
 
 function draw(){
-    background(255,255,255);
+    background(bg);
 
     //If "a" key is pressed, move left
     if(keyIsDown(65)) {
