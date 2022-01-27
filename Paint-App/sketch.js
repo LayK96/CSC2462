@@ -2,7 +2,7 @@ let currentColor, red, orange, yellow, green, cyan, blue, magenta, brown, white,
 
 //Function to set up canvas with color boxes
 function setup() {
-	createCanvas(600, 600);
+	createCanvas(1000, 1000);
 	background(255);
 	currentColor = 0;
 	red = new colorBox(0, "red");
