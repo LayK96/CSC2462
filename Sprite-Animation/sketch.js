@@ -69,7 +69,7 @@ function draw(){
           spelunk.mirrorX(1);
           spelunk.velocity.x = 2;
           eskimo.mirrorX(1);
-          eskimo.velocity.x = 2;
+          eskimo.velocity.x = 4;
        }
       }
     else {
