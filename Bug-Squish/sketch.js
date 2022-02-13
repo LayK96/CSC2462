@@ -7,6 +7,7 @@ let squashAnimation;
 let bugSpriteSheet;
 let bugSquashSpriteSheet;
 
+
 let canvas;
 let bugClicked = true;
 
@@ -37,6 +38,7 @@ function preload() {
 }
 
 function setup() {
+  //bg = loadImage('assets/backround.png');
   clear();
   canvas = createCanvas(windowWidth, windowHeight);
   timerIsDone = false;
@@ -61,7 +63,7 @@ function setup() {
 }
 
 function draw() {
-  background("lightBlue");
+  background("lightgreen");
   if (gameState === "play") {
     timer();
     startGame.hide();
