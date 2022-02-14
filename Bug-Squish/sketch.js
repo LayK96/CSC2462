@@ -94,7 +94,7 @@ function draw() {
   } else if (gameState === "start") {
     endCount = 0;
     startGame.mousePressed(() => {
-
+      score = 0;
       gameState = "play";
 
       startTime = millis();
@@ -104,7 +104,6 @@ function draw() {
     bugs.removeSprites();
     textSize(40);
     text("Score: " + score, 300, 300);
-    score = 0;
   }
 }
 
