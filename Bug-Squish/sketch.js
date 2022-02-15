@@ -94,7 +94,7 @@ function draw() {
   } else if (gameState === "start") {
     endCount = 0;
     startGame.mousePressed(() => {
-
+      score = 0;
       gameState = "play";
 
       startTime = millis();
