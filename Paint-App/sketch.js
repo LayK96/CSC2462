@@ -1,5 +1,5 @@
 let currentColor, red, orange, yellow, green, cyan, blue, magenta, brown, white, black;
-
+//this is a test note
 //Function to set up canvas with color boxes
 function setup() {
 	createCanvas(1000, 1000);
